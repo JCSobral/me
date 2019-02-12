@@ -19,3 +19,12 @@ body{
 a{
     color:#e84118;
 }
+
+.lista-linha {
+    padding-left: 0;
+    list-style: none;
+}
+
+.lista-linha li{
+    display: inline-block;
+}
