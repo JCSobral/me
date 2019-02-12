@@ -1,0 +1,21 @@
+.intro{
+    color: white;
+    text-align: center;
+    margin-top: 7%;
+
+}
+body{
+    background-color: #130f40;
+
+}
+
+.intro img {
+    border-radius: 10%;
+    max-width: 20%;
+    max-height: 20%;
+    border: 7px solid white;
+}
+
+a{
+    color:#e84118;
+}
